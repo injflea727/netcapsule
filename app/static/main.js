@@ -1,4 +1,4 @@
-window.INCLUDE_URI = "/static/novnc/";
+window.INCLUDE_URI = "app/static/novnc/";
 
 var cmd_host = undefined;
 var vnc_host = undefined;
